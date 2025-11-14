@@ -34,7 +34,7 @@ tecnico:
 | 10 | Marcação |
 | 11 | Passe |
 | 12 | Resistencia |
-| 13 | Velocidade |
+| 164| Velocidade |
 
 ### Tabela de tradução de Posições
 | Valor | Posição |
